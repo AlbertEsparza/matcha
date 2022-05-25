@@ -7,15 +7,15 @@ h1 {
 }
 
 h3 {
-    columns: #46484c;
+    color: #46484c;
 }
 
 p {
-    color: #8b8b8bcc
+    color: #8b8b8bcc;
 }
 
 button {
-    color: #fff;
+    color: #ffffff;
     background-color: #025157;
 }
-
+  
