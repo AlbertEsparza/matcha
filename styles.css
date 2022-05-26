@@ -18,4 +18,45 @@ button {
     color: #ffffff;
     background-color: #025157;
 }
-  
+ 
+header a {img
+width 50px;
+}
+
+.first-image{
+    width: 25%;
+}
+.second-image{
+    width: 40%;
+}
+.main {
+    text-align: center;
+    font-size: 48px;
+    font-weigth: 900;
+    color: #13a376;
+
+
+}
+.publish{ 
+    display: flex;
+    width: 70%;
+    margin: 100px auto;
+    align-items: center;
+
+}
+
+
+
+
+.publish .publicidad .titutlo-publish{
+    font-family:Alegreya', serif;
+    font-size: 36px
+    font-weight: 900;
+    color: #025157;
+
+}
+
+ <publish .publicidad .color-gris{
+     color:#8b8b8bcc;
+ }
+
